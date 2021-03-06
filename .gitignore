@@ -1,0 +1,7 @@
+/translation-server
+*.csl
+*.bak
+*.html
+*.bib
+*.pdf
+urls.txt
